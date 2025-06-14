@@ -1,4 +1,4 @@
-# Wild Blueberry Yield Prediction
+# Blueberry Yield Prediction
 
 This project focuses on predicting wild blueberry yields using machine learning techniques. It provides an interactive Streamlit application that allows users to explore the dataset, train models, and interpret the results.
 
