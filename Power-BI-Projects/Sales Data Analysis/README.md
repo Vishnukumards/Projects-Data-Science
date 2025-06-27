@@ -1,4 +1,5 @@
-🚀 Power BI Sales Dashboard Project
+## 🚀 Power BI Sales Dashboard Project
+
 I recently developed an interactive Sales Dashboard using Power BI to analyze real-world sales data and uncover valuable business insights. This project allowed me to apply key data analytics techniques and strengthen my Power BI skills, from data modeling to visualization.
 
 🔍 Key Highlights:
@@ -10,10 +11,10 @@ I recently developed an interactive Sales Dashboard using Power BI to analyze re
 🧠 Outcome: Built a professional, responsive dashboard that enables users to quickly explore business metrics and identify sales opportunities.
 
 🛠 Tools & Skills Used:
-Power BI • Power Query • DAX • Data Cleaning • Data Modeling • Business Intelligence • Dashboard Design • Data Storytelling
+Power BI, Power Query, DAX, Data Cleaning, Data Modeling, Business Intelligence, Dashboard Design, Data Storytelling
 
 ✅ Key Takeaways:
 This project helped me:
-Enhance my problem-solving and data storytelling skills.
-Understand how to structure data pipelines for analytics.
-Learn how business insights can be communicated clearly through visuals.
+- Enhance my problem-solving and data storytelling skills.
+- Understand how to structure data pipelines for analytics.
+- Learn how business insights can be communicated clearly through visuals.
